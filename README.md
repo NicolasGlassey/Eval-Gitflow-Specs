@@ -88,7 +88,6 @@ git log --graph --oneline --decorate --all
 | *   fad3245 (tag: 1.1.0, main) Merge branch 'release/1.1.0'
 | |\
 | | * 914cdd8 refactor:
-| | * 46b3c87 fix:
 | | * 6ac15a7 test:
 | |/
 |/|
@@ -105,6 +104,7 @@ git log --graph --oneline --decorate --all
 | |\
 | | * ee319ec refactor:
 | | * 259fff5 fix:
+| | * 259fff6 chore:
 | | * f03107f test:
 | |/
 
