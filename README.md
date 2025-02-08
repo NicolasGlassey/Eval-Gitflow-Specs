@@ -82,43 +82,42 @@ git log --graph --oneline --decorate --all
 ```
 
 ```
-λ git log --graph --oneline --decorate --all
-*   37334d3 (HEAD -> develop) Merge tag '1.1.0' into develop
+*   2bd4e83 (origin/develop, develop) Merge tag '1.1.0' into develop
 |\
-| *   fad3245 (tag: 1.1.0, main) Merge branch 'release/1.1.0'
+| *   8db3d80 (HEAD -> main, tag: 1.1.0, origin/main, origin/HEAD) Merge branch 'release/1.1.0'
 | |\
-| | * 914cdd8 refactor:
-| | * 6ac15a7 test:
-| |/
+| | * f55480c refactor:
+| | * 20693de fix:
+| |/  
 |/|
-* |   3f22803 Merge branch 'feature/f2' into develop
-|\ \
-| * | 6147660 refactor:
-| * | 63401fb fix:
-| * | 2d58ecb feat:
-| * | 2c9a2f9 test:
-|/ /
-* | cd409fe Merge tag '1.0.1' into develop
+* |   0bf5395 Merge branch 'feature/f2' into develop
+|\ \  
+| * | aef0b76 refactor
+| * | ffc9f05 fix:
+| * | ff5bae9 feat:
+| * | 8d7d38f test:
+|/ /  
+* | 03b8304 Merge tag '1.0.1' into develop
 |\|
-| *   5899bd8 (tag: 1.0.1) Merge branch 'hotfix/1.0.1'
+| *   bb5a0b4 (tag: 1.0.1) Merge branch 'hotfix/1.0.1'
 | |\
-| | * ee319ec refactor:
-| | * 259fff5 fix:
-| | * 259fff6 chore:
-| | * f03107f test:
+| | * 96ba25f refactor:
+| | * 2bffd96 fix:  
+| | * 276e3a8 chore:
+| | * 2ffba32 test: 
 | |/
-
 ---------------------------------------------------- //point de départ
-
-* |   c20b028 Merge branch 'feature/f1' into develop
+| * 8e4ea90 Update README.md
+| * 677fb03 Update README.md
+* |   a6020cb Merge branch 'feature/f1' into develop
 |\ \
 | |/
 |/|
-| * b839c2e refactor:
-| * ffe54cd feat:
-| * 6d0d436 test:
+| * 8cfee9e refactor:
+| * 65c5d31 feat:    
+| * 57b4665 test:    
 |/
-* 9975104 chore:
+* 108df61 chore:
 ```
 
 ## Modalités de livraison
